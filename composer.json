@@ -1,6 +1,6 @@
 {
-  "name": "benwilkins/laravel-fcm-notification",
-  "description": "Laravel FCM (Firebase Cloud Messaging) Notification Channel",
+  "name": "algorithms/laravel-fcm-notification",
+  "description": "Laravel FCM (Firebase Cloud Messaging) Notification Channel based off of AlgorithmSam/laravel-fcm-notification with support for laravel 10",
   "license": "MIT",
   "keywords": [
     "laravel",
@@ -10,8 +10,8 @@
   ],
   "authors": [
     {
-      "name": "Ben Wilkins",
-      "email": "bentwilkins@gmail.com"
+      "name": "algorithm-sam",
+      "email": "oluwatobisamuel2020@gmail.com"
     }
   ],
   "require": {
