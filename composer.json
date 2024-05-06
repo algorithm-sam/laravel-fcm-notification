@@ -1,5 +1,5 @@
 {
-  "name": "algorithms/laravel-fcm-notification",
+  "name": "algorithm-sam/laravel-fcm-notification",
   "description": "Laravel FCM (Firebase Cloud Messaging) Notification Channel based off of AlgorithmSam/laravel-fcm-notification with support for laravel 10",
   "license": "MIT",
   "keywords": [
